@@ -1,24 +1,43 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名
+だんじりホームページ
 
-Things you may want to cover:
+# アプリケーション概要
+自分の地域のだんじりをアピールするためのホームページです。
 
-* Ruby version
+# URL
 
-* System dependencies
 
-* Configuration
+# 利用方法
+## 写真投稿
+1.
 
-* Database creation
+# アプリケーションを作成した背景
+自分の参加しているだんじり祭は、本場岸和田のだんじりに比べると知名度はなく観客も地域の方のみとなっています。
+他の地域の方などにもっと認知してもらうためには、楽しさなどを発信する必要があると考えました。
+そこで、インターネットを通じて知ってもらうためにホームページ作成をすることを決めました。
 
-* Database initialization
+# 洗い出した要件
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+# 実装した機能についての画像やGIFおよびその説明
 
-* Deployment instructions
 
-* ...
+# 実装予定の機能
+
+
+# データベース設計
+
+
+# 画面遷移図
+
+
+# 環境開発
+
+
+# ローカルでの動作方法
+
+
+# 工夫したポイント
+
